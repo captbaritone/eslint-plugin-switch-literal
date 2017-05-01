@@ -1,5 +1,7 @@
 # eslint-plugin-switch-literal
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/captbaritone/eslint-plugin-switch-literal.svg)](https://greenkeeper.io/)
+
 Disallow the ussage of string literals in switch cases.
 
 ## Installation
